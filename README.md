@@ -1,3 +1,3 @@
-# Git Expert App
+# Gif Expert App
 
-Este es mi App de react para bsqueda de Gifs
+Este es mi App de react para busqueda de Gifs
